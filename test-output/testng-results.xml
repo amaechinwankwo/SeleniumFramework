@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31369" started-at="2023-02-25T17:45:26Z" finished-at="2023-02-25T17:45:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31369" started-at="2023-02-25T17:45:26Z" finished-at="2023-02-25T17:45:57Z">
+      <class name="TestComponents.SubmitOrder">
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:TestComponents.SubmitOrder@49b0b76]" name="launchApplication" is-config="true" duration-ms="30797" started-at="2023-02-25T18:45:26Z" finished-at="2023-02-25T18:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="SubmitTest()[pri:0, instance:TestComponents.SubmitOrder@49b0b76]" name="SubmitTest" duration-ms="441" started-at="2023-02-25T18:45:57Z" finished-at="2023-02-25T18:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestComponents.SubmitOrder@49b0b76]" name="tearDown" is-config="true" duration-ms="119" started-at="2023-02-25T18:45:57Z" finished-at="2023-02-25T18:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestComponents.SubmitOrder -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
